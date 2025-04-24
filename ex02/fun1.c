@@ -14,7 +14,7 @@ int fun1() {
 	printf("fun1함수 끝\n");   //8
 	return 0;//9
 }
-int fun2() {
+int fun2() {//매개변수없음
 	printf("fun2함수 시작\n");//5
 	printf("fun2함수 끝\n");//6
 	return 0;//7
